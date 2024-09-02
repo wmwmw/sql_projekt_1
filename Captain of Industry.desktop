@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Captain of Industry
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1594320
+Icon=steam_icon_1594320
+Terminal=false
+Type=Application
+Categories=Game;
